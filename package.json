@@ -1,0 +1,24 @@
+{
+  "name": "sk-page",
+  "version": "0.0.1",
+  "description": "Site para a SK-socienty",
+  "main": "index.js",
+  "author": "Alvaro Separovich",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.2.2",
+    "next-react-svg": "1.1.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-markdown": "^4.3.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "devDependencies": {
+    "react-devtools": "^4.4.0"
+  }
+}

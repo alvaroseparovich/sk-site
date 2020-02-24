@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/.git": false,
+    "**/.svn": false,
+    "**/.hg": false,
+    "**/CVS": false,
+    "**/.DS_Store": false,
+    "**/node_modules": false,
+    "**/.vscode": false,
+    "**/.next": false,
+    "**/.nvmrc": false,
+    "**/yarn.lock": false,
+    "**/package.json": false
+  }
+}
