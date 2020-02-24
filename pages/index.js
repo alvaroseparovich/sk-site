@@ -15,6 +15,7 @@ export default () => mainTemplate(<>
         </h4>
         <p>porque nao cobramos bsta nenhuma</p>
         <br/>
+        <img src="/pngs/floating-to-germany-compressd.png" alt=""/>
     </div>
   </div>
 </>)
