@@ -9,7 +9,7 @@ const text = `
 export default () => mainTemplate(<>
   <div className="row blue darken-1 center white-text"> <br/>
     <div className="container">
-       <br/>
+        <br/>
         <h4 className="card-title">
           Porque escolher a {BRAND_NAME}?
         </h4>
