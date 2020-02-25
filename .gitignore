@@ -2,3 +2,5 @@ node_modules
 .next
 *.svg
 out/*
+# Local Netlify folder
+.netlify
